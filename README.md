@@ -10,4 +10,4 @@ A simple Java console-based To-Do List app.
 ## How to Run
 1. Open terminal in this folder
 2. Compile:
-3.
+
